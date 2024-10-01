@@ -5,6 +5,6 @@
 
 [Lab1](https://github.com/ChingJuYeh/ICCAD/blob/main/Lab1/README.md)
 
-[Lab2](https://github.com/ChingJuYeh/ICCAD/blob/main/Lab1/README.md)
+[Lab2](https://github.com/ChingJuYeh/ICCAD/blob/main/Lab2/README.md)
 
 [Lab3](https://github.com/ChingJuYeh/ICCAD/blob/main/Lab1/README.md)
