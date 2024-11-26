@@ -7,5 +7,6 @@
 >Test the chip failures through assuming that all failures cause nodes to be “stuck-at” 0 or 1
 
 [Lab2](https://github.com/ChingJuYeh/ICCAD/blob/main/Lab2/README.md)
+>撰寫List Scheduling，並進行(1)DFG1以及DFG2的排程，(2)RGB to YUV的排程
 
 [Lab3](https://github.com/ChingJuYeh/ICCAD/blob/main/Lab3/README.md)
